@@ -1,0 +1,33 @@
+# Blender MTL File: 'lambo.blend'
+# Material Count: 3
+
+newmtl Road
+Ns 100.560266
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.550000
+d 1.000000
+illum 2
+map_Kd Road007_1K-PNG_Color.png
+
+newmtl _Lamborghini_AventadorLamborghini_Aventador_BodySG
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.486897 0.117159 0.015021
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl _Lamborghini_AventadorLamborghini_Aventador_GlassSG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.030592 0.028669 0.031063
+Ks 0.807087 0.807087 0.807087
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.552632
+illum 2
